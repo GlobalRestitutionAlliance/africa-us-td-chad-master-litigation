@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-chad-canal-and-intervention-historian
-  name: Chad Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-chad-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_td_001
+    name: Chad Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_002
+    name: Chad Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_003
+    name: Chad Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_004
+    name: Chad Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_005
+    name: Chad Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_006
+    name: Chad Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_007
+    name: Chad Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_008
+    name: Chad Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_009
+    name: Chad Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_010
+    name: Chad Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_011
+    name: Chad Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_012
+    name: Chad Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_013
+    name: Chad Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_014
+    name: Chad Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_015
+    name: Chad Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_016
+    name: Chad Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_017
+    name: Chad Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_018
+    name: Chad Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_019
+    name: Chad Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_020
+    name: Chad Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_021
+    name: Chad Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_022
+    name: Chad Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_023
+    name: Chad Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_024
+    name: Chad Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_025
+    name: Chad Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_026
+    name: Chad Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_027
+    name: Chad Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_028
+    name: Chad Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_029
+    name: Chad Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_030
+    name: Chad Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_031
+    name: Chad Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_032
+    name: Chad Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_033
+    name: Chad Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_034
+    name: Chad Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_035
+    name: Chad Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_036
+    name: Chad Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_037
+    name: Chad Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_038
+    name: Chad Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_039
+    name: Chad Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_040
+    name: Chad Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_041
+    name: Chad Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_042
+    name: Chad Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_043
+    name: Chad Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_044
+    name: Chad Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_045
+    name: Chad Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_046
+    name: Chad Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_047
+    name: Chad Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_048
+    name: Chad Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_049
+    name: Chad Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_050
+    name: Chad Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_051
+    name: Chad Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_052
+    name: Chad Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_053
+    name: Chad Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_054
+    name: Chad Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_055
+    name: Chad Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_056
+    name: Chad Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_057
+    name: Chad Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_058
+    name: Chad Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_059
+    name: Chad Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_060
+    name: Chad Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_061
+    name: Chad Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_062
+    name: Chad Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_063
+    name: Chad Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_064
+    name: Chad Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_065
+    name: Chad Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_066
+    name: Chad Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_067
+    name: Chad Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_068
+    name: Chad Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_069
+    name: Chad Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_070
+    name: Chad Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_071
+    name: Chad Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_072
+    name: Chad Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_073
+    name: Chad Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_074
+    name: Chad Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_075
+    name: Chad Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_076
+    name: Chad Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_077
+    name: Chad Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_078
+    name: Chad Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_079
+    name: Chad Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_080
+    name: Chad Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_081
+    name: Chad Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_082
+    name: Chad Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_083
+    name: Chad Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_084
+    name: Chad Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_085
+    name: Chad Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_086
+    name: Chad Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_087
+    name: Chad Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_088
+    name: Chad Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_089
+    name: Chad Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_090
+    name: Chad Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_091
+    name: Chad Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_092
+    name: Chad Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_093
+    name: Chad Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_094
+    name: Chad Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_095
+    name: Chad Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_096
+    name: Chad Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_097
+    name: Chad Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_098
+    name: Chad Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_099
+    name: Chad Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_100
+    name: Chad Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_101
+    name: Chad Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_102
+    name: Chad Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_103
+    name: Chad Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_104
+    name: Chad Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_105
+    name: Chad Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_106
+    name: Chad Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_107
+    name: Chad Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_108
+    name: Chad Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_109
+    name: Chad Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_110
+    name: Chad Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_111
+    name: Chad Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_112
+    name: Chad Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_113
+    name: Chad Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_114
+    name: Chad Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_115
+    name: Chad Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_116
+    name: Chad Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_117
+    name: Chad Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_118
+    name: Chad Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_119
+    name: Chad Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_120
+    name: Chad Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_121
+    name: Chad Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_122
+    name: Chad Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_123
+    name: Chad Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_124
+    name: Chad Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_125
+    name: Chad Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_126
+    name: Chad Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_127
+    name: Chad Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_128
+    name: Chad Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_129
+    name: Chad Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_130
+    name: Chad Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_131
+    name: Chad Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_132
+    name: Chad Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_133
+    name: Chad Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_134
+    name: Chad Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_135
+    name: Chad Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_136
+    name: Chad Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_137
+    name: Chad Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_138
+    name: Chad Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_139
+    name: Chad Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_140
+    name: Chad Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_141
+    name: Chad Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_142
+    name: Chad Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_143
+    name: Chad Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_144
+    name: Chad Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_145
+    name: Chad Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_146
+    name: Chad Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_147
+    name: Chad Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_148
+    name: Chad Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_149
+    name: Chad Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_150
+    name: Chad Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_151
+    name: Chad Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_152
+    name: Chad Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_153
+    name: Chad Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_154
+    name: Chad Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_155
+    name: Chad Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_156
+    name: Chad Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_157
+    name: Chad Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_158
+    name: Chad Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_159
+    name: Chad Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_160
+    name: Chad Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_161
+    name: Chad Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_162
+    name: Chad Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_163
+    name: Chad Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_164
+    name: Chad Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_165
+    name: Chad Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_166
+    name: Chad Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_167
+    name: Chad Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_168
+    name: Chad Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_169
+    name: Chad Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_td_170
+    name: Chad Agent 170
+    status: ACTIVE_SCAFFOLD
