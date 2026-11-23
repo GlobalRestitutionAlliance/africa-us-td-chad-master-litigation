@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/chad",
+  "final_url": "https://data.worldbank.org/country/chad",
+  "title": "World Bank Chad",
+  "fetched_at": "2026-11-23T07:34:57.676669Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44497,
+  "sha256": "475abc56ce697f5506ef2eb141305e46852dc20a3eec06cf93ffa5e6650e29d2",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

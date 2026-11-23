@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `0359c40f16cf6faf...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW
@@ -19,3 +19,5 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 - CIT-0015: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0017: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `31bcfe1214dd2d53...` | PENDING_LEGAL_REVIEW
+- CIT-0018: https://www.archives-nationales.culture.gouv.fr/ | `03_Evidentiary_Exhibits/Immutable_Ledger/French_National_Archives_public_portal.html` | `e7cf8c9c80bac0ba...` | PENDING_LEGAL_REVIEW
+- CIT-0019: https://www.ohchr.org/en/countries/chad | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_Chad.html` | `692c2a5c3afc5719...` | PENDING_LEGAL_REVIEW
